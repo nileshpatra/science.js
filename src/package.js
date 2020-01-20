@@ -1,6 +1,6 @@
 require("./core/core");
 
-require("util").puts(JSON.stringify({
+console.log(JSON.stringify({
   "name": "science",
   "version": science.version,
   "description": "Scientific and statistical computing in JavaScript.",
